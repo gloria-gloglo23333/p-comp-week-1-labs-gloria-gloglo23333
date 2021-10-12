@@ -1,0 +1,20 @@
+Lab 04 - Playing with Common Sensors
+Working in groups of 4 or 5, pick one of the sensors below from your kit. To find out more about each one google the sensor + the magic word datasheet. Also, sensor + Arduino is a useful one. Hook it up and be prepared to explain to the class how to works next week. Most can also be built on Tinkercad.
+
+Links to hookup guides for the different sensors
+
+Sensors in your kit to explore:
+
+PIR Motion Sensor
+
+Ultrasonic Sensor
+
+IR LED / IR Receiver
+
+Light Dependent Resistor
+
+TMP36 Temperature Sensor (there are 3 of these, go wild)
+
+Tilt Sensor
+
+Force Sensing Resistor (circular)
